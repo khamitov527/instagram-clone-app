@@ -224,7 +224,7 @@
                     <navigationItem key="navigationItem" id="n5j-uR-wJH">
                         <barButtonItem key="leftBarButtonItem" title="LogOut" id="a05-97-yyU">
                             <connections>
-                                <action selector="onLogoutButton:" destination="0M0-ao-1Uh" id="Ind-F2-kFj"/>
+                                <action selector="onLogoutButton:" destination="0M0-ao-1Uh" id="Pce-B9-3ar"/>
                             </connections>
                         </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" title="+" image="insta_camera_btn" id="7YO-6V-Sqt">
